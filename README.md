@@ -1,2 +1,2 @@
-# NEAR Labs Kanban
-Overview of all labs products
+# NEAR Labs worklog
+Overview of all NEAR Labs issues
